@@ -83,8 +83,16 @@ git push origin main
 git tag -a v1.0 -m "Initial release"
 git push origin v1.0
 
-![Screenshot (45)](https://github.com/user-attachments/assets/f3a897a4-02c8-428e-9f49-3eafaa7ae206)
-![Screenshot (46)](https://github.com/user-attachments/assets/6711a46d-0a83-4643-a65d-5be8786153d1)
-![Screenshot (42)](https://github.com/user-attachments/assets/735abe12-d090-43ac-bcfd-34f3c28b4339)
-![Screenshot (44)](https://github.com/user-attachments/assets/0fa43b0a-3c05-4507-b5a3-d473817b3491)
-![Screenshot (43)](https://github.com/user-attachments/assets/e9b98075-9704-4d14-a4dc-7b000bd085f0)
+![Screenshot (42)](https://github.com/user-attachments/assets/ad055eb8-3d3a-4896-a379-2ba9e5f1c84b)
+
+![Screenshot (43)](https://github.com/user-attachments/assets/b19243a7-7ad5-4b36-aba1-57167bb48558)
+
+![Screenshot (44)](https://github.com/user-attachments/assets/bcf7c727-ec66-4e3d-8a99-7eb01ef91b60)
+
+![Screenshot (45)](https://github.com/user-attachments/assets/155e91bd-e375-4c3f-8d54-346ab8ae0ab4)
+
+![Screenshot (46)](https://github.com/user-attachments/assets/e758b3d0-1e83-4b67-8f6d-844d05e51ac2)
+
+
+
+
