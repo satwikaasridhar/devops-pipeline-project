@@ -1,16 +1,4 @@
-# devops-pipeline-project
-## Project Structure
-devops-pipeline-project/
-│
-├── .gitignore
-├── README.md
-├── docs/
-│   └── task-log.md
-├── src/
-│   └── ...
-├── .github/workflows/
-│   └── ci.yml
-
+# Devops-pipeline-project
 
 ✅ Step 1: Setup and Initialization
 1. Create a GitHub Repository
