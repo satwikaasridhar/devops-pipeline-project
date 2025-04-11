@@ -1,0 +1,41 @@
+##Set Your Username
+git config --global user.name "Satwika Chigati"
+
+## Set Your Email
+git config --global user.email "satwikachigati@gmail.com"
+
+## View Your Git Config
+git config --list
+
+##clone Repository Locally
+git clone https://github.com/your-username/devops-pipeline-project.git
+cd devops-pipeline-project
+
+## Initialize Git
+git init
+
+##Create and Switch to dev Branch
+git checkout -b dev
+
+##Create feature Branch from dev
+git checkout -b feature/setup-pipeline
+
+## Add .gitignore and README
+
+##Track Changes and Commit
+git add .
+git commit -m "Initial commit: Added README and .gitignore"
+
+##push to GitHub
+git push origin feature/setup-pipeline
+
+##Merge to Main
+git checkout main
+git pull origin main
+git merge dev
+git push origin main
+
+##Add Tags 
+git tag -a v1.0 -m "Initial release"
+git push origin v1.0
+
