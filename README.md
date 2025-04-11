@@ -1,32 +1,32 @@
 # Devops-pipeline-project
 
 ✅ **Step 1: Setup and Initialization**
-1. *Create a GitHub Repository*
-1. Go to GitHub.
-2. Click on New Repository.
-3. Name your project (https://github.com/satwikaasridhar/Git_Versions.git).
-4. Add a description.
-5. Select Public or Private.
-6. Do not initialize with README.
-7. Click Create Repository.
+1. `*Create a GitHub Repository*`
+2. Go to GitHub.
+3. Click on New Repository.
+4. Name your project (https://github.com/satwikaasridhar/Git_Versions.git).
+5. Add a description.
+6. Select Public or Private.
+7. Do not initialize with README.
+8. Click Create Repository.
 
-2. *Clone Repository Locally*
+2. `*Clone Repository Locally*`
 git clone https://github.com/satwikaasridhar/Git_Versions.git
 cd devops-pipeline-project
 
-4. *Initialize Git* 
+4. `*Initialize Git*`
 git init
 
 ✅ **Step 2: Create and Setup Branches**
-1. *Create and Switch to dev Branch*
+1. `*Create and Switch to dev Branch*`
 git checkout -b dev
 
-2. *Create feature Branch from dev*
+2. `*Create feature Branch from dev*`
 git checkout -b feature/setup-pipeline
 You can later make more feature branches like feature/docker-setup, feature/ci-cd, etc.
 
 ✅ **Step 3: Add .gitignore and README**
-1. *Add .gitignore*
+1. `*Add .gitignore*`
 Create a file named .gitignore and add common ignores:
 *.log
 *.env
@@ -55,21 +55,21 @@ This project demonstrates DevOps CI/CD automation using version control best pra
 Steps to clone and run the project locally...\
 
 ✅ **Step 4: Make Commits**
-1. Track Changes and Commit
+1. `*Track Changes and Commit*`
 git add .
 git commit -m "Initial commit: Added README and .gitignore"
 
-2. Push to GitHub
+2. `*Push to GitHub*`
 git push origin feature/setup-pipeline
 
 ✅ **Step 5: Pull Request & Merge**
-1. *Create Pull Request*
+`*Create Pull Request*`
 1. Go to GitHub.
 2. Create a Pull Request from feature/setup-pipeline → dev.
 3. Add description and task details.
 4. Click Create Pull Request.
 
-2. *Merge to Dev*
+`*Merge to Dev*`
 After review, click Merge Pull Request → Confirm.
 
 ✅ **Step 6: Merge to Main**
