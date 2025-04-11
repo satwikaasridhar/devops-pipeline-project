@@ -1,4 +1,16 @@
 # devops-pipeline-project
+## Project Structure
+devops-pipeline-project/
+│
+├── .gitignore
+├── README.md
+├── docs/
+│   └── task-log.md
+├── src/
+│   └── ...
+├── .github/workflows/
+│   └── ci.yml
+
 
 ## 04/11 - Project Initialization
 - Created GitHub repo: https://github.com/satwikaasridhar/Git_Versions.git
