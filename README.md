@@ -82,3 +82,9 @@ git push origin main
 ✅ **Step 7: Add Tags**
 git tag -a v1.0 -m "Initial release"
 git push origin v1.0
+
+![Screenshot (45)](https://github.com/user-attachments/assets/f3a897a4-02c8-428e-9f49-3eafaa7ae206)
+![Screenshot (46)](https://github.com/user-attachments/assets/6711a46d-0a83-4643-a65d-5be8786153d1)
+![Screenshot (42)](https://github.com/user-attachments/assets/735abe12-d090-43ac-bcfd-34f3c28b4339)
+![Screenshot (44)](https://github.com/user-attachments/assets/0fa43b0a-3c05-4507-b5a3-d473817b3491)
+![Screenshot (43)](https://github.com/user-attachments/assets/e9b98075-9704-4d14-a4dc-7b000bd085f0)
